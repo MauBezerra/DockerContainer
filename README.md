@@ -2,7 +2,7 @@ Estudo sobre containers em Docker:
 
 Alguns dos principais comandos do Docker incluem:
 
-docker run: Cria um novo contêiner a partir de uma imagem e inicia a execução do contêiner.
+- docker run: Cria um novo contêiner a partir de uma imagem e inicia a execução do contêiner.
 
 docker build: Cria uma nova imagem a partir de um arquivo Dockerfile.
 
