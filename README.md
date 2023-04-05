@@ -16,7 +16,7 @@ Alguns dos principais comandos do Docker incluem:
 - docker inspect: Motra detalhes sobre uma imagem 
 - docker login: Login no portal docker hub
 
-#####################################################################################################################
+#########################################################################################
 
 Imagens são read only (imutavel)
 Container é uma camada temporaria em cima da imagenes, por esse motivo os containers são tão leves.
